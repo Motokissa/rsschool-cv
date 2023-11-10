@@ -45,6 +45,7 @@ At the moment, the main priority is to improve skills in the field of Front-end 
  if (num > 0)
  { return num - 1; 
 } 
-return num + 1; }; 
+return num + 1; }
+; 
 ```
-![icon](/rsschool-cv/i.png)
+!![icon](/rsschool-cv/i.png)
